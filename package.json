@@ -1,0 +1,10 @@
+{
+  "name": "ghibli-js-tests",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node tests/runAll.js"
+  },
+  "devDependencies": {
+    "jsdom": "^24.0.0"
+  }
+}
